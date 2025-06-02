@@ -5,7 +5,7 @@ const Hero: React.FC = () => {
     <section
       className="relative bg-cover bg-center h-[60vh] flex items-center justify-center text-white"
       style={{
-        backgroundImage: `url('https://source.unsplash.com/1600x900/?travel,resort')`
+        backgroundImage: `url('public/assets/c811f30edfff8de9c9b079139dd9782018c7e7c0.jpg')`
       }}
     >
       <div className="absolute inset-0 bg-black bg-opacity-50" />
